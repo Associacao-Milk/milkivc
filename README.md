@@ -195,3 +195,9 @@ Faísca a faísca.
 Arquivo a arquivo.
 Corpo a corpo.
 Vida a vida.
+
+
+## Politica de identidade cientifica (canonica)
+- Obras do autor - ORCID do Eduardo: 0009-0007-6892-6570
+- Contribuicoes - ORCID do Nuno: 0009-0009-1781-4020
+- Identidade coletiva - DOI institucional: 10.5281/zenodo.22412484 (nunca ORCID de terceiros)
